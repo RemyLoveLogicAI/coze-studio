@@ -30,7 +30,7 @@
     "test:cov": "npm run test -- --coverage"
   },
   "dependencies": {
-    "@flowgram.ai/core": "0.1.28",
+    "@flowgram.ai/core": "0.5.7",
     "@flowgram.ai/document": "0.1.28",
     "@flowgram.ai/form": "0.1.28",
     "@flowgram.ai/form-core": "0.1.28",
