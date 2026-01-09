@@ -20,7 +20,7 @@
     "@coze-workflow/base": "workspace:*",
     "@coze-workflow/test-run-shared": "workspace:*",
     "@textea/json-viewer": "^3.0.0",
-    "@visactor/vgrammar": "0.12.5-alpha.4",
+    "@visactor/vgrammar": "0.16.15",
     "ahooks": "^3.7.8",
     "clsx": "^1.2.1",
     "copy-to-clipboard": "^3.3.3",
