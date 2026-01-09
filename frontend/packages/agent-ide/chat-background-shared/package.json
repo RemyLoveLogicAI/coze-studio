@@ -27,7 +27,7 @@
     "@coze-studio/components": "workspace:*",
     "ahooks": "^3.7.8",
     "classnames": "^2.3.2",
-    "colorthief": "~2.4.0",
+    "colorthief": "~2.6.0",
     "lodash-es": "^4.17.21",
     "nanoid": "^4.0.2",
     "react-cropper": "^2.3.3",
