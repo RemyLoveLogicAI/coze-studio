@@ -124,7 +124,11 @@ export const ProjectFormModal: React.FC<BizProjectFormModalProps> = ({
       </ProjectForm>
       {auditResult.check_not_pass ? (
         <div className="coz-fg-hglt-red mt-[-8px]">
-          <ReactMarkdown skipHtml={true} linkTarget="_blank">
+          <ReactMarkdown
+            components={{
+              a: ({node, ...props}) => <a target="_blank" rel="noopener noreferrer" {...props} />
+            }}
+          >
             {/* Note that using | | msg undefined or empty string goes to the bottom */}
             {auditResult.check_not_pass_msg || I18n.t('publish_audit_pop7')}
           </ReactMarkdown>
