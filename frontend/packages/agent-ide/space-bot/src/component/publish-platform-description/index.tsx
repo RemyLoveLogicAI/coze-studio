@@ -35,7 +35,13 @@ export default function PublishPlatformDescription(
       position="right"
       content={
         <div className={classNames(s['connector-tip'])}>
-          <ReactMarkdown linkTarget="_blank">{desc}</ReactMarkdown>
+          <ReactMarkdown
+            components={{
+              a: ({node, ...props}) => <a target="_blank" rel="noopener noreferrer" {...props} />
+            }}
+          >
+            {desc}
+          </ReactMarkdown>
         </div>
       }
     >
