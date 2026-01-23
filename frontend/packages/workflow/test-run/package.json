@@ -73,7 +73,7 @@
     "nanoid": "^4.0.2",
     "query-string": "^8.1.0",
     "react-click-away-listener": "^2.2.3",
-    "remark-parse": "^10.0.0",
+    "remark-parse": "^11.0.0",
     "unified": "^10.0.0",
     "zustand": "^4.4.7"
   },
