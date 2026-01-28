@@ -11,7 +11,7 @@
     "@coze-arch/rush-dep-level-check-plugin": "0.0.1-alpha.f89072",
     "@coze-arch/rush-fix-ts-refers-plugin": "alpha",
     "@coze-arch/rush-increment-run-plugin": "0.0.2-alpha.88b122",
-    "@coze-arch/rush-publish-plugin": "alpha",
+    "@coze-arch/rush-publish-plugin": "0.0.3",
     "@coze-arch/rush-run-tsc-plugin": "0.0.1-alpha.5f6259",
     "json5": "^2.2.1",
     "rush-init-project-plugin": "^0.11.0",
