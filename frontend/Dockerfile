@@ -37,7 +37,7 @@ RUN chmod +x scripts/hooks/post-rush-install.sh && rm -rf /app/common/temp && ru
 RUN rush build --to @coze-studio/app
 
 # Production image stage
-FROM nginx:1.25-alpine
+FROM nginx:1.29.4-alpine
 
 
 # if you located in China, you can use aliyun mirror to speed up
