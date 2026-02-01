@@ -18,7 +18,7 @@ RUN go build -ldflags="-s -w" -o /app/opencoze main.go
 
 
 # Stage 2: Final image
-FROM alpine:3.22.0
+FROM alpine:3.23.2
 
 WORKDIR /app
 
