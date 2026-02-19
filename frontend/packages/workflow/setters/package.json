@@ -62,7 +62,7 @@
     "vite-plugin-svgr": "~3.3.0",
     "vite-tsconfig-paths": "^4.2.1",
     "vitest": "~3.0.5",
-    "webpack": "~5.91.0"
+    "webpack": "~5.105.2"
   },
   "peerDependencies": {
     "react": ">=18.2.0",
