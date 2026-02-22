@@ -91,7 +91,7 @@
     "vite": "^4.3.9",
     "vite-plugin-svgr": "~3.3.0",
     "vitest": "~3.0.5",
-    "webpack": "~5.91.0",
+    "webpack": "~5.105.2",
     "xgplayer-subtitles": "^1.0.21"
   },
   "peerDependencies": {
