@@ -70,7 +70,7 @@
     "json-bigint": "~1.0.0",
     "lodash-es": "^4.17.21",
     "mime-types": "2.1.35",
-    "nanoid": "^4.0.2",
+    "nanoid": "^5.1.6",
     "query-string": "^8.1.0",
     "react-click-away-listener": "^2.2.3",
     "remark-parse": "^10.0.0",

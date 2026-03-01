@@ -30,7 +30,7 @@
     "classnames": "^2.3.2",
     "immer": "^10.0.3",
     "lodash-es": "^4.17.21",
-    "nanoid": "^4.0.2",
+    "nanoid": "^5.1.6",
     "react-markdown": "^8.0.3",
     "zustand": "^4.4.7"
   },
