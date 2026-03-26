@@ -45,7 +45,7 @@
     "react-is": ">= 16.8.0",
     "styled-components": ">= 2",
     "typescript": "~5.8.2",
-    "webpack": "~5.91.0"
+    "webpack": "~5.105.4"
   }
 }
 
